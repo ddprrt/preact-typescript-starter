@@ -1,0 +1,15 @@
+{
+  "name": "preact-typescript-starter",
+  "version": "1.0.0",
+  "description": "Write Preact apps only with TSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "preact": "^10.5.4",
+    "typescript": "^4.0.3"
+  }
+}
