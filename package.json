@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^16.9.52",
     "preact": "^10.5.4",
-    "typescript": "^4.0.3"
-  }
+    "typescript": "next"
+  },
+  "dependencies": {}
 }
