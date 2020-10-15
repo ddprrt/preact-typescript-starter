@@ -8,8 +8,6 @@ function App() {
   );
 }
 
-const el = jsx("div", { class: "Hello" });
-
 const node = document.querySelector("#app");
 if (node) {
   render(<App />, node);
